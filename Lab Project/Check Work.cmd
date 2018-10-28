@@ -1,0 +1,6 @@
+@echo off
+echo Running test application...
+"Debug\Lab Project.exe" %1 > "Data.txt"
+
+echo Validating data from test application...
+type "Data.txt" | "Validate.exe" > "Results.txt"

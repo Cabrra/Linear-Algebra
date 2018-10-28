@@ -1,0 +1,95 @@
+unsigned Seed() validated.
+bool Vector_IsEqual(TVECTOR, TVECTOR) validated.
+bool Vector_IsEqual(TVECTOR, TVECTOR) validated.
+bool Vector_IsEqual(TVECTOR, TVECTOR) validated.
+TVECTOR Vector_Add(TVECTOR, TVECTOR) validated.
+TVECTOR Vector_Add(TVECTOR, TVECTOR) validated.
+TVECTOR Vector_Sub(TVECTOR, TVECTOR) validated.
+TVECTOR Vector_Sub(TVECTOR, TVECTOR) validated.
+TVECTOR Vector_Scalar_Multiply(TVECTOR, float) validated.
+TVECTOR Vector_Scalar_Multiply(TVECTOR, float) validated.
+TVECTOR Vector_Scalar_Multiply(TVECTOR, float) validated.
+TVECTOR Vector_Negate(TVECTOR) validated.
+TVECTOR Vector_Negate(TVECTOR) validated.
+float Vector_Dot(TVECTOR, TVECTOR) validated.
+float Vector_Dot(TVECTOR, TVECTOR) validated.
+TVECTOR Vector_Cross(TVECTOR, TVECTOR) validated.
+TVECTOR Vector_Cross(TVECTOR, TVECTOR) validated.
+float Vector_LengthSq(TVECTOR) validated.
+float Vector_LengthSq(TVECTOR) validated.
+float Vector_Length(TVECTOR) validated.
+float Vector_Length(TVECTOR) validated.
+TVECTOR Vector_Normalize(TVECTOR) validated.
+TVECTOR Vector_Normalize(TVECTOR) validated.
+TVECTOR Vector_Normalize(TVECTOR) validated.
+TVECTOR Vector_Homogenise(TVECTOR) validated.
+TVECTOR Vector_Homogenise(TVECTOR) validated.
+TVECTOR Vector_Maximize(TVECTOR, TVECTOR) validated.
+TVECTOR Vector_Maximize(TVECTOR, TVECTOR) validated.
+TVECTOR Vector_Minimize(TVECTOR, TVECTOR) validated.
+TVECTOR Vector_Minimize(TVECTOR, TVECTOR) validated.
+TVECTOR Vector_Average(TVECTOR, TVECTOR) validated.
+TVECTOR Vector_Average(TVECTOR, TVECTOR) validated.
+TVECTOR Vector_Average(TVECTOR, TVECTOR) validated.
+float Vector_AngleBetween(TVECTOR, TVECTOR) validated.
+float Vector_AngleBetween(TVECTOR, TVECTOR) validated.
+float Vector_AngleBetween(TVECTOR, TVECTOR) validated.
+float Vector_AngleBetween(TVECTOR, TVECTOR) validated.
+float Vector_AngleBetween(TVECTOR, TVECTOR) validated.
+float Vector_AngleBetween(TVECTOR, TVECTOR) validated.
+float Vector_AngleBetween(TVECTOR, TVECTOR) validated.
+float Vector_Component(TVECTOR, TVECTOR) validated.
+float Vector_Component(TVECTOR, TVECTOR) validated.
+float Vector_Component(TVECTOR, TVECTOR) validated.
+float Vector_Component(TVECTOR, TVECTOR) validated.
+TVECTOR Vector_Project(TVECTOR, TVECTOR) validated.
+TVECTOR Vector_Project(TVECTOR, TVECTOR) validated.
+TVECTOR Vector_Project(TVECTOR, TVECTOR) validated.
+TVECTOR Vector_Project(TVECTOR, TVECTOR) validated.
+TVECTOR Vector_Reflect(TVECTOR, TVECTOR) validated.
+TVECTOR Vector_Reflect(TVECTOR, TVECTOR) validated.
+TVECTOR Vector_Reflect(TVECTOR, TVECTOR) validated.
+TVECTOR Vector_Reflect(TVECTOR, TVECTOR) validated.
+TVECTOR Vector_Reflect(TVECTOR, TVECTOR) validated.
+TMATRIX Matrix_Zero() validated.
+TMATRIX Matrix_Identity() validated.
+TMATRIX Matrix_Create_Translation(float, float, float) validated.
+TMATRIX Matrix_Create_Scale(float, float, float) validated.
+TMATRIX Matrix_Create_Scale(float, float, float) validated.
+TMATRIX Matrix_Create_Rotation_X(float) validated.
+TMATRIX Matrix_Create_Rotation_X(float) validated.
+TMATRIX Matrix_Create_Rotation_X(float) validated.
+TMATRIX Matrix_Create_Rotation_Y(float) validated.
+TMATRIX Matrix_Create_Rotation_Y(float) validated.
+TMATRIX Matrix_Create_Rotation_Y(float) validated.
+TMATRIX Matrix_Create_Rotation_Z(float) validated.
+TMATRIX Matrix_Create_Rotation_Z(float) validated.
+TMATRIX Matrix_Create_Rotation_Z(float) validated.
+TMATRIX Matrix_Matrix_Add(TMATRIX, TMATRIX) validated.
+TMATRIX Matrix_Matrix_Add(TMATRIX, TMATRIX) validated.
+TMATRIX Matrix_Matrix_Sub(TMATRIX, TMATRIX) validated.
+TMATRIX Matrix_Matrix_Sub(TMATRIX, TMATRIX) validated.
+TMATRIX Matrix_Scalar_Multiply(TMATRIX, float) validated.
+TMATRIX Matrix_Scalar_Multiply(TMATRIX, float) validated.
+TMATRIX Matrix_Negate(TMATRIX) validated.
+TMATRIX Matrix_Negate(TMATRIX) validated.
+TMATRIX Matrix_Transpose(TMATRIX) validated.
+TMATRIX Matrix_Transpose(TMATRIX) validated.
+TVECTOR Matrix_Vector_Multiply(TMATRIX, TVECTOR) validated.
+TVECTOR Matrix_Vector_Multiply(TMATRIX, TVECTOR) validated.
+TVECTOR Vector_Matrix_Multiply(TVECTOR, TMATRIX) validated.
+TVECTOR Vector_Matrix_Multiply(TVECTOR, TMATRIX) validated.
+TMATRIX Matrix_Matrix_Multiply(TMATRIX, TMATRIX) validated.
+TMATRIX Matrix_Matrix_Multiply(TMATRIX, TMATRIX) validated.
+TMATRIX Matrix_Matrix_Multiply(TMATRIX, TMATRIX) validated.
+float Matrix_Determinant(TMATRIX) validated.
+float Matrix_Determinant(TMATRIX) validated.
+float Matrix_Determinant(TMATRIX) validated.
+float Matrix_Determinant(TMATRIX) validated.
+TMATRIX Matrix_Inverse(TMATRIX) validated.
+TMATRIX Matrix_Inverse(TMATRIX) validated.
+TMATRIX Matrix_Inverse(TMATRIX) validated.
+TMATRIX Matrix_Inverse(TMATRIX) validated.
+
+92 command(s) validated successfully.
+0 command(s) failed.
